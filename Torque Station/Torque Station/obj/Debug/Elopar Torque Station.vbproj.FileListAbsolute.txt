@@ -1,0 +1,252 @@
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\Elopar Torque Station.exe.config
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\Elopar Torque Station.exe
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\Elopar Torque Station.pdb
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\Elopar Torque Station.xml
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Main.resources
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Statistics.resources
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.Resources.resources
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.GenerateResource.Cache
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.CoreCompileInputs.cache
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.exe
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.xml
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.pdb
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbprojResolveAssemblyReference.cache
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\EntityFramework.dll
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.dll
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\EntityFramework.xml
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.xml
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Deneme.resources
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Process.resources
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Authentication.resources
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_ProcessSetup.resources
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_UserSetup.resources
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\LBIndustrialCtrls.dll
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\PolyMonControls.dll
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Login.resources
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\bin\Debug\DMT.dll
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Settings.resources
+C:\Users\ArgePC2\source\repos\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Warning.resources
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\DMT.dll
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\Elopar Torque Station.exe.config
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\Elopar Torque Station.exe
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\Elopar Torque Station.pdb
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\Elopar Torque Station.xml
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\EntityFramework.dll
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\EntityFramework.SqlServer.dll
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\LBIndustrialCtrls.dll
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\PolyMonControls.dll
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.dll
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.EF6.dll
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.Linq.dll
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\EntityFramework.xml
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\EntityFramework.SqlServer.xml
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.xml
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.dll.config
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Authentication.resources
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Login.resources
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_ProcessSetup.resources
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Deneme.resources
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Main.resources
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Settings.resources
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Statistics.resources
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Process.resources
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_UserSetup.resources
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Warning.resources
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.Resources.resources
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.GenerateResource.cache
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.CoreCompileInputs.cache
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.CopyComplete
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.exe
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.xml
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.pdb
+E:\FILEs\Desktop\HK\MEHMET\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbprojAssemblyReference.cache
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\DMT.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\Elopar Torque Station.exe.config
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\Elopar Torque Station.exe
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\Elopar Torque Station.pdb
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\Elopar Torque Station.xml
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\EntityFramework.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\LBIndustrialCtrls.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\PolyMonControls.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\EntityFramework.xml
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.xml
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Authentication.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Login.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_ProcessSetup.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Deneme.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Main.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Settings.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Statistics.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Process.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_UserSetup.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Warning.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.Resources.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.GenerateResource.cache
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.CoreCompileInputs.cache
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.CopyComplete
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.exe
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.xml
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar Torque Station.pdb
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.BarcodePrinter.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\DMT.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\Elopar Torque Station.exe.config
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\Elopar Torque Station.exe
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\Elopar Torque Station.pdb
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\Elopar Torque Station.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\EntityFramework.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\LBIndustrialCtrls.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\PolyMonControls.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\System.Data.SQLite.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\EntityFramework.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\System.Data.SQLite.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.BarcodePrinter.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Authentication.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Login.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_ProcessSetup.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Deneme.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Main.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Settings.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Statistics.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Process.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_UserSetup.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Warning.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.Resources.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.GenerateResource.cache
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.CoreCompileInputs.cache
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.CopyComplete
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar Torque Station.exe
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar Torque Station.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210320\Elopar Torque Station\obj\Debug\Elopar Torque Station.pdb
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\DMT.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\Elopar Torque Station.exe.config
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\Elopar Torque Station.exe
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\Elopar Torque Station.pdb
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\Elopar Torque Station.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\EntityFramework.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\LBIndustrialCtrls.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\PolyMonControls.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\System.Data.SQLite.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\EntityFramework.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\System.Data.SQLite.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.BarcodePrinter.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Authentication.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Login.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_ProcessSetup.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Deneme.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Main.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Settings.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Statistics.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Process.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_UserSetup.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Warning.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.Resources.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.GenerateResource.cache
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.CoreCompileInputs.cache
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.CopyComplete
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar Torque Station.exe
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar Torque Station.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210408\Elopar Torque Station\obj\Debug\Elopar Torque Station.pdb
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\DMT.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\Elopar Torque Station.exe.config
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\Elopar Torque Station.exe
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\Elopar Torque Station.pdb
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\Elopar Torque Station.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\EntityFramework.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\LBIndustrialCtrls.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\PolyMonControls.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\System.Data.SQLite.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\EntityFramework.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\System.Data.SQLite.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.BarcodePrinter.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Authentication.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Login.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_ProcessSetup.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Deneme.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Main.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Settings.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Statistics.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Process.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_UserSetup.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Warning.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.Resources.resources
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.GenerateResource.cache
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.CoreCompileInputs.cache
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.CopyComplete
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar Torque Station.exe
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar Torque Station.xml
+C:\Users\HKocatepe\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar Torque Station.pdb
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\DMT.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\Elopar Torque Station.exe.config
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\Elopar Torque Station.exe
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\Elopar Torque Station.pdb
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\Elopar Torque Station.xml
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\EntityFramework.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\LBIndustrialCtrls.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\PolyMonControls.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\System.Data.SQLite.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\EntityFramework.xml
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\System.Data.SQLite.xml
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbprojAssemblyReference.cache
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.BarcodePrinter.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Authentication.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Login.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_ProcessSetup.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Deneme.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Main.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Settings.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Statistics.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Process.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_UserSetup.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.frm_Warning.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar_Torque_Station.Resources.resources
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.GenerateResource.cache
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.CoreCompileInputs.cache
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar Torque Station.vbproj.CopyComplete
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar Torque Station.exe
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar Torque Station.xml
+C:\Users\Betül TERLİK\Desktop\Elopar Torque Station_20210412\Elopar Torque Station\obj\Debug\Elopar Torque Station.pdb

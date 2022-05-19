@@ -1,0 +1,7 @@
+N
+A50,5,0,4,1,1,N,"Part Nr :Variant1"
+A50,50,0,4,1,1,N,"Station :Station1"
+A50,100,0,4,1,1,N,"Operator:Mehmet"
+A50,150,0,4,1,1,N,"11.07.2019 16:33:25"
+B50,200,0,1,3,5,150,B,"Variant1"
+P1
